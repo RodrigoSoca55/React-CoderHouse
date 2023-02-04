@@ -1,4 +1,5 @@
 body {
+  overflow-x: hidden;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +11,50 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.navbar-brand img{ 
+  height: 150px;
+  width: 150px;
+
+}
+
+
+.footer-ban img{
+  margin-top: -6%;
+  transform: rotate(180deg);
+}
+
+.iconos .col{
+  display: flex;
+  justify-content: center;
+}
+
+.iconos i{
+  font-size: 2rem;
+  color: azure;
+  cursor: pointer;
+  z-index: 1500;
+  color: white;
+} 
+
+#copy {
+  text-align: center;
+  color: white;
+  z-index: 1500;
+}
+
+.carousel{
+  margin-top: 4%;
+}
+
+.footer{
+  margin-top: 5%;
+}
+
+.Itemlist{
+  margin-top: 5%;
+}
+.alert h1{
+  text-align: center;
 }
