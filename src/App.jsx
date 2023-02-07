@@ -6,10 +6,10 @@ import ItemListContainer from "./Componentes/ItemListContainer";
 function App() {
   return (
     <div className="App">
-      <Navbar></Navbar>
-      <Carousel></Carousel>
+      <Navbar/>
+      <Carousel/>
       <ItemListContainer greeting={"PAGE UNDER MAINTENANCE!!"}></ItemListContainer>
-      <Footer></Footer>
+      <Footer/>
 
     </div>
   );
