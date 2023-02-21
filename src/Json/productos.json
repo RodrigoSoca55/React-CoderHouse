@@ -1,0 +1,92 @@
+ [
+    {
+        "index": 1,
+        "nombre": "Big House",
+        "zona": "Virginia VA",
+        "direccion":"4801 Siempre Viva , Virginia Beach, VA ",
+        "descripcion": "Spacious corner lot on a beautiful street in Aragona Village! This property features a great floorplan- 4 bedrooms, 2.5 baths that includes a family room plus den! Lots of natural light throughout, two bedrooms down and two up. Primary Bedroom on first floor. With a little TLC this property could be your next dream home! Calling Chip & Joanna Gaines! Whole House Generator to convey. Centrally located near shopping, hospital, & schools.",
+        "imagen": "https://i.ibb.co/DKpR9XG/pexels-binyamin-mellish-106399-1.jpg" ,
+        "Precio": "1,001,000",
+        "categoria": "casa"
+    },
+    {
+        "index": 2,
+        "nombre": "The Corinthian Office",
+        "zona": "New York NYC",
+        "direccion":" 345 E 37th Siempre Viva , NYC",
+        "descripcion": "The Corinthian Office Condominiums is a three-story, 32-unit medical office condominium building at the base of the 57-story Corinthian luxury residential tower in Midtown East. The property is strategically located on East 37th Street between First and Second avenues and adjacent to the First Avenue medical corridor, known as Medical Mile. A magnificent lobby featuring marble and wood accents and soaring ceiling heights greet visitors entering the building. Property amenities include a health club, fitness center, 56-foot lap pool, yoga studio, sauna, steam room, business center, and daily and monthly access to a privately managed parking garage. For a worry-free investment, benefit from institutional property management with professionally trained building managers, mechanical engineers, security guards, porters, and cleaning crews.",
+        "imagen": "https://i.ibb.co/y6j1CG0/pexels-expect-best-323705-1.jpg" ,
+        "Precio": "150,000",
+        "categoria": "apartamento"
+    },
+    {
+        "index": 3,
+        "nombre": "Classic Style House",
+        "zona": "Los Angeles LA",
+        "direccion":"4801 Siempre Viva ,Los Angeles, ",
+        "descripcion": "This 4000m2 large splendid villa overlooking the ocean in LA was completed in 2009.  Featuring spacious rooms; and is built on a 6.6 ha lot in a privileged location with amazing panoramic views. This is truly magnificent property with many unique features, modern design, and high-tech amenities. Could be an ideal place for an upscale Retreat or Boutique Hotel or for someone seeking a very special place of a high standard. The property is located just minutes from the town of Jose Ignacio and the beautiful beaches.The main house features an impressive entrance hall and living area, nine bedrooms en-suite, a large modern gourmet kitchen, a large dining room to entertain 24 guests, Parilla room, Wine Cellar, Home Cinema, Billiard, Helicopter Landing Port, separate Pool house area with cabanas, gym, sauna, massage room and many more features one would need to see.Some of the additional property features are three water wells, de-calcification and ultraviolet water treatment, a generator, solar panels for hot water and pool heating, 3 high-efficiency heat pumps for AC, and underfloor heating throughout the house.",
+        "imagen": "https://i.ibb.co/3Yyh77X/pexels-niki-nagy-1694360-1.jpg",
+        "Precio": "100,000",
+        "categoria": "casa"
+    },
+    {
+        "index": 4,
+        "nombre": "Mediterranean House",
+        "zona": "Houston Tx",
+        "direccion":"4801 Siempre Viva , Houston, Tx 23455",
+        "descripcion": "Gorgeously updated all brick ranch-style home in sought-after Bent Tree subdivision. Featuring approx. 1530 sq.ft. of living space, this home has been lovingly remodeled with a open kitchen and living area with a large island, updated appliances, new flooring, a new farmhouse sink, new cabinets, subway tile backsplash, and concrete countertops. Other updates include new light fixtures, fans, paint, and even new upper cabinets and shiplap siding in the kitchen dining area. The light and bright interior continues to the east wing of the house with a fully renovated modern farmhouse guest bath, spacious guest bedrooms, and a huge master suite. This suite has a vaulted ceiling and double closets as well. The bathroom has two vanities and a full tub/shower. New carpet is in all bedrooms and closets and there is vinyl plank in the living areas, kitchen, and utility room. Outside is a large and fully fenced yard with open patio. The house sits on a cul-de-sac off Butternut and and easy walk to HOA amenities including pool, play area, tennis courts, and a full basketball court. Excellent Willard schools (Orchard Hills Elem). Easy access to I-44 and Sunshine.",
+        "imagen": "https://i.ibb.co/QjYSk5M/pexels-jayson-tacoycoy-14509975.jpg",
+        "Precio": "200,000",
+        "categoria": "casa"
+    },
+    {
+        "index": 5,
+        "nombre": "Ranch House",
+        "zona": "Austin Tx",
+        "descripcion": "Attention Investors! Here is your chance to get 2 HOMES and a lot for the price of one! 2146 N. Newton is a 2 bedroom, 1 bath, 974 square foot home and is currently rented. 2150 N. Newton is 3 bedrooms, 2.5 bathrooms, and 1180 square feet. In addition to the two homes, there is an additional parcel, that may be able to be built upon, included. Both homes and the additional lot share a tax parcel, and are conveniently located near restaurants, grocery stores, and have quick access to 1-44. Call today to schedule a showing!",
+        "direccion":"4801 Siempre Viva , Austin, Tx ",
+        "imagen": "https://i.ibb.co/yP9fYCG/pexels-jens-mahnke-1105754-3.jpg" ,
+        "Precio": "351,000",
+        "categoria": "casa"
+    },
+    {
+        "index": 6,
+        "nombre": "Craftman Style Home",
+        "zona": "Austin Tx",
+        "direccion":"4801 Siempre Viva , Austin, Tx ",
+        "descripcion": "Spacious 4 bedroom, 2.5 bathroom with 2 car garage corner home in central Virginia Beach. Huge, fenced backyard with screened porch and deck for entertaining. Updated kitchen with stainless steel appliances, LVP flooring on the first floor and original hard wood floors on the second floor with updated master bathroom. HAVC replaced 12/21, windows and roof 12 years old. Home is minutes from shopping, beaches and Mt. Trashmore. This wont last long!",
+        "imagen": "https://i.ibb.co/b3XBtJ7/pexels-kaboompics-com-6343.jpg",
+        "Precio": "100,000",
+        "categoria": "casa"
+    },
+    {
+        "index": 7,
+        "nombre": " Single Car Garage",
+        "zona": "Boston NYC",
+        "direccion":"4801 Siempre Viva , Boston, NYC ",
+        "descripcion": "ONLINE AUCTION: Bidding begins 01/19 @ 10:00 AM. Bidding ends 01/23 @ 11:20 AM. List Price is Suggested Opening Bid. 2 Garages located behind 4114 Frederick Ave. in the Irvington area. Each Garage is approximately 1,000 Square feet.  MINUTES to Ascension Agnes Hospital, Leon Day, Westside Shopping Center, & Edmondson Village Shopping Center.  Easy Access to Major Traffic Artery Frederick Ave. Property is Vacant. See below for more information. Deposit: $5,000.",
+        "imagen": "https://i.ibb.co/sjNdX4S/pexels-iv-n-rivero-2739645-2.jpg" ,
+        "Precio": "10,000",
+        "categoria": "garages"
+    },
+    {
+        "index": 8,
+        "nombre": "Emperator Town",
+        "zona": "Boston NYC",
+        "direccion":"4801 Siempre Viva , Boston, NYC 23455",
+        "descripcion": "Back on the market at a very competitive price! Good things come in small packages. Like those little turquoise boxes from Tiffany's. This jewel box of a house is like that. Very private from the street but inside....WOW! Filled with natural light from its southwest exposure this Klaus designed home is artistic in every way, with its many angles and windows but still totally private. Pine plank floors and open beam ceilings compliment the design. Two en suite bedrooms, one on the ground floor. Upstairs BR/sitting room is loft-like. This charming beach house is move in ready. Seller has loved living here for 49 years! A sunny deck and shady nook in the garden area offer outside seating in total privacy. Beautiful views into nature. Ocean peek!  Short walk to the beach (5 minutes). This is one of those homes that just makes you feel good!",
+        "imagen": "https://i.ibb.co/6NtmLKg/pexels-scott-webb-430216-2.jpg" ,
+        "Precio": "250,000",
+        "categoria": "apartamento"
+    },
+    {
+        "index": 9,
+        "nombre": "Contemporary House",
+        "zona": "Houston Tx",
+        "direccion":"4801 Siempre Viva , Houston, Tx 23455",
+        "descripcion": "New! The gorgeous Roseleigh II takes our traditional Roseleigh floorplan to the next level! The 2nd generation offers even more square footage, 9' ceilings throughout & elevated luxury finishes. The 1st floor features a Home Office w/ glass french doors, Formal Dining, Great Room, 1st Floor Guest Suite, spacious Eat-in Gourmet Kitchen w/ walk-in pantry, Custom Cabinetry, Quartz countertops & a large center island that offers extra storage & prep space. Breezy covered front & rear porches, plus a beautiful paver patio, offer space to relax outdoors. The 2nd floor includes an exquisite Primary Suite w/ tray ceilings, dual walk in closets, en-suite luxury bath complete w/ double bowl vanity, quartz countertops, tile floors, a garden tub w/ tile surround & a separate tile shower w/ semi-frameless shower door. Jack & Jill bedrooms w/en-suite bath, a 5th bedroom, huge Media Room, Laundry Room, and an addt'l. full bath complete our 2nd floor! Est. Comp. Spring 2023",
+        "imagen": "https://i.ibb.co/t8yDzZ6/pexels-expect-best-323780.jpg",
+        "Precio": "350,000",
+        "categoria": "casa"
+    }
+]
