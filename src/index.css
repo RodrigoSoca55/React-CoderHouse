@@ -1,3 +1,6 @@
+@import 'animate.css';
+
+
 body {
   overflow-x: hidden;
   margin: 0;
@@ -57,4 +60,9 @@ code {
 }
 .alert h1{
   text-align: center;
+}
+
+.error404{
+animation: flash;
+animation-duration: 2s;
 }
