@@ -1,3 +1,71 @@
+# React JS - East State - Proyecto Ecommerce
+
+## Presentación
+Mi nombre es Rodrigo Soca y este es mi proyecto para el curso de ReactJS en CoderHouse 2023.
+Mi proyecto  está creado con React, utilice herramientas como React Router DOM, React Hooks  y Bootstrap.
+
+## Flujo Ecommerce
+El usuario ingresa a la pagina principal y mediante el navbar en las categorias homes,apartments y garages que despliegan dichos una listas con dichos items (i.e. casas,apartamentos y garages),  además tambien esta la seccion for sale donde se despliega una lista con todos los productos anteriores,a los cuales se les puede hacer click para poder ir al detalle del producto seleccionado, luego agrgarlos al carrito y proceder al checkout para generar la orden.
+
+
+### Home Page
+La pagina home page desplega un carousel con imagenes respectivas a los elementos a la venta y se visualizara el navbar y el footer.
+
+### Items
+Al acceder a algunas de las opción "Homes" , "Apartment", "Garages" o "For Sale" se te redirigirá a un listado de productos filtrados con la categoria correspondiente a la seleccionada.
+
+### Item Detail
+Al clickear un item se te redireccionara a los detalles del mismo donde se mostra el nombre,precio,zona,descripcion y direccion, además
+cuantan con  un contador (item count) que te permitira seleccionar la cantidad (limitandola al stock de dicho producrto) agregarla al carrito y luego proceder al checkout.
+
+
+### Cart
+Se desplegara una lista ordenara con los productos agregados al carrito, se mostrará el nombre,precio, la cantidad del producto selecionado, ademas un icono clickeable el cual elimina el producto.
+Tambien se indicara el total a pagar y un boton para limpiar el carrito.
+Ademas debajo del total se desplegara un boton para proceder al checkout.
+
+### Checkout
+Luego de clickear el boton del carrito para proceder al checkout se desplegara un formulario para proceder a generar la orden.
+Al finalizar la compra con exito se mostrara en pantalla un contenedor con un mensaje, el ID de la compra, y un boton para seguir comprando.
+
+
+### NavBar
+En todas las páginas se podra visualizar el NavBar, el cual dispone de : 
+
+- Logo - donde al hacer click te redirecciona a la pagina principal ("/")
+- Homes- donde al hacer click se redireccionara a los items de la categoria Homes
+- Apartments- donde al hacer click se redireccionara a los items de la categoria Apartments
+- Garages- donde al hacer click se redireccionara a los items de la categoria Garages
+- Cart- se desplegara el icono a la derecha del navbar(desktop) si hay productos en el carrito al clickear el icono se redirecciona al carrito para proceder al checkout
+
+
+
+
+### Footer
+En el footer se pueden visualizar 5 iconos y los derechos de autor de la página.
+
+
+
+## Librerias y dependencias utilizadas
+
+
+### React-Router-DOM
+
+Utilice React-Router-DOM para dotar de navegabilidad a la pagina, utilizando los componentes que provee.
+
+### Bootstrap
+
+Utilicé Bootstrap para la implementación del Carousel en el home page, el formulario en checkout   y el estilo de los items de la pagina
+
+### Bootstrap icons
+Los iconos de la pagina corresponden a bootstrap icons
+
+### Animate Css
+La  animacion  fuen en la seccion correspondiente a Error 404 donde se realiza un efecto flash en el texto
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

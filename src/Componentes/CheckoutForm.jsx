@@ -17,7 +17,7 @@ const ChekoutForm = () => {
     const generarOrden = () => {
         const buyer = { name: nombre, email: email, phone: telefono };
         const fecha = new Date();
-        const date = `${fecha.getFullYear()}-${fecha.getMonth + 1}- ${fecha.getHours()}:${fecha.getMinutes()}:${fecha.getSeconds()}`;
+        const date = `${fecha.getFullYear()}-${fecha.getMonth() + 1}- ${fecha.getHours()}:${fecha.getMinutes()}:${fecha.getSeconds()}`;
         const order = { buyer, items: cart, date: date, total: cartSum() };
 
         if ((nombre.length === 0) && (email.length === 0) &&(telefono.length === 0)) {
